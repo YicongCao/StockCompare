@@ -1,0 +1,18 @@
+{
+    "last_update": 0,
+    "watch_list": [{
+        "remark": "今天腾讯股价超过阿里了吗",
+        "bot_id": "12312392-2c14-4f2f-8786-2ea7b3123123",
+        "stocks": [{
+                "symbol": "00700",
+                "market": "hk",
+                "remark": "腾讯"
+            },
+            {
+                "symbol": "BABA.N",
+                "market": "us",
+                "remark": "阿里"
+            }
+        ]
+    }]
+}
